@@ -35,9 +35,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Greenes newes both from heauen and hell Prohibited the first for writing of bookes, and banished out
+
+1. To the renowned Gregory Coolle, chiefe Burgermaister of the Castle of Clonarde, Marquesse of merry conceits, and Grande Caualier amongst Boune companions and all good fellowship; At his chaste Chamber at Dublyne in Irelande, B. R. sendeth greeting.
+
 #####Body#####
-Greenes newes both from heauen and hell Prohibited the first for writing of bookes, and banished out
+
+1.  Greenes newes both from Heauen and Hell.
+
 **Types of content**
 
   * There are 4 **verse** lines!
